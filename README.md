@@ -1,6 +1,6 @@
 # vscodetk README
 
-This is the README for your extension "vscodetk". After writing up a brief description, we recommend including the following sections.
+This is a vscodetk README and it is a wip
 
 ## Features
 
