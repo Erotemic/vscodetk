@@ -15,7 +15,15 @@
     "commands": [
       {
         "command": "vscodetk.helloWorld",
-        "title": "Hello World"
+        "title": "Hello World from vscode tk"
+      },
+      {
+        "command": "vscodetk.insertPrintVarRepr",
+        "title": "Insert Print Var (Repr)"
+      },
+      {
+        "command": "vscodetk.insertPrintVarUrepr",
+        "title": "Insert Print Var (URepr)"
       }
     ]
   },
